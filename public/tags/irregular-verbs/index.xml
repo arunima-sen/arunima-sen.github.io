@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Irregular Verbs on Arunima Sen</title>
-    <link>hhttps://arunima-sen.github.io/tags/irregular-verbs/</link>
+    <link>http://localhost:1313/tags/irregular-verbs/</link>
     <description>Recent content in Irregular Verbs on Arunima Sen</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="hhttps://arunima-sen.github.io/tags/irregular-verbs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/irregular-verbs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>hhttps://arunima-sen.github.io/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>hhttps://arunima-sen.github.io/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
   </channel>
