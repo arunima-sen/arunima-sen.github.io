@@ -1,75 +1,268 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Moritz-Maria von Igelfeld</title>
-    <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Moritz-Maria von Igelfeld</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <title>Arunima Sen</title>
+    <link>hhttps://arunima-sen.github.io/</link>
+    <description>Recent content on Arunima Sen</description>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Location</title>
-      <link>https://pascalmichaillat.org/hugo-website/location/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
-      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
-    </item>
-    <item>
-      <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/hugo-website/officehours/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
-      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
-    </item>
+    <atom:link href="hhttps://arunima-sen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your Inner Hedgehog</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper3/</link>
+      <link>hhttps://arunima-sen.github.io/papers/paper3/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper3/</guid>
+      <guid>hhttps://arunima-sen.github.io/papers/paper3/</guid>
       <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
-      <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
-      <description>This dataset contains all irregular verbs in known Romance languages.</description>
-    </item>
-    <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
+      <link>hhttps://arunima-sen.github.io/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
+      <guid>hhttps://arunima-sen.github.io/papers/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
       <title>The Finer Points of Sausage Dogs</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
+      <link>hhttps://arunima-sen.github.io/papers/paper2/</link>
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
+      <guid>hhttps://arunima-sen.github.io/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
+      <link>hhttps://arunima-sen.github.io/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
+      <guid>hhttps://arunima-sen.github.io/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>https://pascalmichaillat.org/hugo-website/books/book1/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/books/book1/</guid>
-      <description>This book discusses Portugese irregular verbs in great details.</description>
+      <title>Profanity in Early Irish</title>
+      <link>hhttps://arunima-sen.github.io/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>hhttps://arunima-sen.github.io/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     <item>
-      <title>Profanity in Early Irish</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
-      <description>This undergraduate course discusses profanity in Early Irish.</description>
+      <title></title>
+      <link>hhttps://arunima-sen.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>hhttps://arunima-sen.github.io/archive/</guid>
+      <description>&lt;!-- ---
+title: &#34;Archive&#34;
+description: &#34;All the books, papers, courses, and data on this website—listed in reverse-chronological order.&#34;
+layout: &#34;archives&#34;
+--- --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>hhttps://arunima-sen.github.io/data/data1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>hhttps://arunima-sen.github.io/data/data1/</guid>
+      <description>&lt;!-- ---
+title: &#34;List of Irregular Verbs Across Romance Languages&#34; 
+date: 2013-03-07
+lastmod: 2024-07-12
+tags: [&#34;Romance languages&#34;,&#34;philology&#34;,&#34;irregular verbs&#34;,&#34;Portuguese&#34;,&#34;Italian&#34;,&#34;French&#34;,&#34;Spanish&#34;,&#34;simulations&#34;,&#34;dataset&#34;,&#34;python&#34;]
+author: [&#34;Patrick Fitzcarron O&#39;Leary&#34;,&#34;Florianus Prinzel&#34;,&#34;Walter Schoeffler-Henschell&#34;,&#34;Detlev Amadeus Unterholzer&#34;, &#34;Dieter Vogelsang&#34;,&#34;Moritz-Maria von Igelfeld&#34;]
+description: &#34;This dataset contains all irregular verbs in known Romance languages.&#34;
+summary: &#34;This dataset contains all irregular verbs in known Romance languages.&#34;
+editPost:
+    URL: &#34;https://github.com/pmichaillat/hugo-website&#34;
+    Text: &#34;GitHub repository&#34;
+showToc: true
+disableAnchoredHeadings: false
+
+---
+
+## Overview
+
+This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+---
+
+## View dataset
+
++ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
++ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
++ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
++ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
+
+---
+
+## Source of data
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+---
+
+## Using data with Python
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Start Python:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.
+
+```python
+import numpy as np
+import pandas as pd
+```
+
+### Open the file:
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat `data.csv`.
+
+```python
+file_path = &#39;data.csv&#39;
+with open(file_path, &#39;r&#39;) as file:
+```
+
+### Read data:
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
+
+```python
+    lines = file.readlines()
+```
+
+### Parse and process data:
+
+Duis aute `line_data` irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur `data.extend`.
+
+```python
+data = []
+for line in lines:
+    line_data = line.strip().split(&#39;,&#39;)  # Split the line into a list of values
+    line_data = [float(value) for value in line_data]  # Convert values to floats
+    data.extend(line_data)  # Extend the main list with values from the line
+```
+
+#### Compute summary statistics using NumPy:
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`. 
+
+```python
+data_array = np.array(data)  # Convert the list to a NumPy array
+mean = np.mean(data_array)
+median = np.median(data_array)
+std_dev = np.std(data_array)
+min_value = np.min(data_array)
+max_value = np.max(data_array)
+```
+
+#### Display summary statistics:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat `print`.
+
+```python
+print(f&#34;Mean: {mean}&#34;)
+print(f&#34;Median: {median}&#34;)
+print(f&#34;Standard Deviation: {std_dev}&#34;)
+print(f&#34;Minimum Value: {min_value}&#34;)
+print(f&#34;Maximum Value: {max_value}&#34;)
+```
+
+---
+
+## Description of simulation parameters
+
+| Parameter |   Value   |  Language  | Time period |           Description            |
+| :-------: | :-------: | ---------- | :---------: | :------------------------------: |
+|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
+| $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
+|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
+|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
+|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
+|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         | --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>hhttps://arunima-sen.github.io/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>hhttps://arunima-sen.github.io/location/</guid>
+      <description>&lt;!-- ---
+title: &#34;Location&#34;
+date: 2024-05-08
+hidemeta: true
+description: &#34;Professor Dr von Igelfeld&#39;s mailing and office addresses at the Institute of Romance Philology.&#34;
+
+---
+
+---
+
+#### Mailing address
+
+Professor Dr von Igelfeld  
+Institute of Romance Philology  
+University of Regensburg  
+Regensburg, Germany
+
+---
+
+#### Office address
+
+Room 133  
+Institute of Romance Philology  
+University of Regensburg
+
+---
+
+#### Office location
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus&#34; 
+width=&#34;700&#34; height=&#34;500&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+
+ --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>hhttps://arunima-sen.github.io/officehours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>hhttps://arunima-sen.github.io/officehours/</guid>
+      <description>&lt;!-- ---
+title: &#34;Office Hours&#34;
+date: 2024-05-08
+hidemeta: true
+description: &#34;Schedule and location for Professor Dr von Igelfeld&#39;s office hours.&#34;
+---
+
+--- 
+#### Schedule
+
+Office hours take place on Wednesday at 10am.
+
+---
+
+#### Location
+
+By default meetings are in my office. I am also available for virtual meetings on Zoom.
+
+---
+
+#### Meeting material
+
++ If we are meeting to discuss research, please send me a written description of the work that you would like to discus. 
++ Presentation slides or paper draft are perfectly fine. 
++ If you do not have those, please send a one-page description of the research. 
++ Please send me the material by 8pm on the evening prior of our meeting. --&gt;</description>
     </item>
   </channel>
 </rss>
