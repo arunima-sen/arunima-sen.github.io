@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "List of Irregular Verbs Across Romance Languages" 
 date: 2013-03-07
 lastmod: 2024-07-12
@@ -130,4 +130,4 @@ print(f"Maximum Value: {max_value}")
 |  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
 |  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
 |  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |
+|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         | -->
