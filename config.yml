@@ -68,14 +68,14 @@ params:
             
 
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
         - name: Email
           url: mailto:arunimasen2001@gmail.com
         - name: LinkedIn
           url: https://www.linkedin.com/in/arunimasen/
         - name: GitHub
           url: https://github.com/arunima-sen 
+        - name: CV
+          url: cv.pdf
 
 
     assets:
