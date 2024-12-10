@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Arunima Sen
-          subtitle: "Hi! I am Arunima, a student in the Erasmus Mundus Copernicus Master in Digital Earth program at Paris Lodron University Salzburg and the University of Southern Brittany, supported as an Erasmus Mundus Scholar fully funded by the European Union. I am currently studying Earth Observation and Geoinformatics and will specialize in Geo Data Science and AI next year. My interests lie in understanding Earth system science, geophysical hazards, and climate dynamics—particularly how various components interact and influence one another, as well as their broader impacts on the Earth and society. I aim to explore these topics using geospatial and computational approaches.
+          subtitle: "Hi! I am Arunima, a student in the Erasmus Mundus **Copernicus Master in Digital Earth** program at Paris Lodron University Salzburg and the University of Southern Brittany, supported as an **Erasmus Mundus** Scholar fully funded by the European Union. I am currently studying **Earth Observation** and **Geoinformatics** and will specialize in **Geo Data Science** and **AI** next year. My interests lie in understanding **Earth system science**, geophysical hazards, and climate dynamics—particularly how various components interact and influence one another, as well as their broader impacts on the Earth and society. I aim to explore these topics using **geospatial** and **computational** approaches.
 "
           imageUrl: "picture.jpeg"
           imageWidth: 160
