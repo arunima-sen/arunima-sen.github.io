@@ -19,7 +19,7 @@ For a more detailed work experience, feel free to head over to the CV section of
 
 
 ## Speaking Engagements
-- **<span style="color: red;">Sustainable Energy for All:</span>** One of the speakers on the *“Mainstreaming Gender & Youth for SDG7: Challenges and Opportunities for Young Women Entering the Workforce”* panel during the 79th United Nations General Assembly (New York City, United States, 2024) 
+- **Sustainable Energy for All:** One of the speakers on the *“Mainstreaming Gender & Youth for SDG7: Challenges and Opportunities for Young Women Entering the Workforce”* panel during the 79th United Nations General Assembly (New York City, United States, 2024) 
 - **NASA South/Southeast Asia Research Initiative Meeting:** Presented a poster on *Automated Coastline Extraction from Satellite Imagery using Machine Learning Techniques* (New Delhi, India, 2024)
 - **[Imperial College London - Grantham Institute for Climate Change and the Environment](https://www.imperial.ac.uk/grantham/education/science-and-solutions-for-a-changing-planet-dtp/external-engagement/women-in-stem-seminar-series/)** One of four youth activists and speakers on *“Women in STEM Seminar: Public Engagement with Climate Science"* (Virtual, 2021)
 - **Intrepid Sea, Air, and Space Museum** GOALS for Girls Summer Technology and Engineering Program (Virtual, 2021)
