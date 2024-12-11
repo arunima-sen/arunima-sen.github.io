@@ -1,5 +1,13 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+    <!-- Logo Section at the bottom (Before copyright text) -->
+    <div class="footer-logos" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
+        <img src="{{ "logo1.jpg" | relURL }}" alt="Logo 1" width="50" height="50">
+        <img src="{{ "logo2.jpg" | relURL }}" alt="Logo 2" width="50" height="50">
+        <img src="{{ "logo3.jpg" | relURL }}" alt="Logo 3" width="50" height="50">
+    </div>
+
+    <!-- Copyright and powered by section -->
     {{- if not site.Params.footer.hideCopyright }}
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
@@ -20,13 +28,6 @@
          of 
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
-
-    <!-- Logo Section at the bottom -->
-    <div class="footer-logos" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
-        <img src="{{ "logo1.jpg" | relURL }}" alt="Logo 1" width="50" height="50">
-        <img src="{{ "logo2.jpg" | relURL }}" alt="Logo 2" width="50" height="50">
-        <img src="{{ "logo3.jpg" | relURL }}" alt="Logo 3" width="50" height="50">
-    </div>
 </footer>
 {{- end }}
 
@@ -145,6 +146,7 @@
     });
 </script>
 {{- end }}
+
 
 
 <!-- {{- if not (.Param "hideFooter") }}
