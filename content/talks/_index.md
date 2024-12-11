@@ -7,7 +7,7 @@ For a more detailed work experience, feel free to head over to the CV section of
 
 ## International Programs
 - **We Are Family Foundation** United Nations General Assembly (UNGA 79) Delegate (New York City, United States, 2024)
-![UNGA 79](/Users/apple/Documents/arunima-sen.github.io/public/un1.jpeg "UNGA 79")
+![UNGA 79](un1.jpeg "UNGA 79")
 
 - **Columbia University** *Global Collaboratory Fellowship* - partnered with Litro de Luz, a Brazilian organization that provides sustainable lighting solutions and developed a compelling pitch deck to increase funding opportunities for the organization's growth and outreach  (Virtual/New York City, United States, 2023)
 - **Emory University** Laney Graduate School Summer Opportunity for Academic Research (LGS SOAR) is a 10-week summer research fellowship program for undergraduate students from underrepresented backgrounds (Atlanta, United States, 2022)
