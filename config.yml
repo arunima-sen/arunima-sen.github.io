@@ -19,12 +19,7 @@ menu:
         - name: CV
           url: Sen_CV.pdf
           weight: 3
-        # - name: Data
-        #   url: data/
-        #   weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+     
 
 params:
     description: "Hi! I am Arunima."
@@ -55,6 +50,11 @@ params:
           title: Arunima Sen
           subtitle: 'Hi! I am Arunima, a student in the Erasmus Mundus <span style="font-weight: bold; color: #2558b3;">Copernicus Master in Digital Earth</span> program at Paris Lodron University Salzburg and the University of Southern Brittany, supported as an <span style="font-weight: bold; color: #2558b3;">Erasmus Mundus</span> Scholar fully funded by the European Union. I am currently studying <span style="font-weight: bold; color: #2558b3;">Earth Observation</span> and <span style="font-weight: bold; color: #2558b3;">Geoinformatics</span> and will specialize in <span style="font-weight: bold; color: #2558b3;">Geo Data Science</span> and <span style="font-weight: bold; color: #2558b3;">AI</span> next year. I am interested in understanding <span style="font-weight: bold; color: #2558b3;">Earth system science</span>, geophysical hazards, and climate dynamics—particularly how various components interact and influence one another, as well as their broader impacts on the Earth and society, using <span style="font-weight: bold; color: #2558b3;">geospatial</span> and <span style="font-weight: bold; color: #2558b3;">computational</span> approaches.'
 
+            <div style="display: flex; gap: 20px; justify-content: center;">
+                <img src="public/logo1.jpg" alt="Logo 1" style="width: 80px; height: auto;">
+                <img src="public/logo2.png" alt="Logo 2" style="width: 80px; height: auto;">
+                <img src="public/logo2.png" alt="Logo 3" style="width: 80px; height: auto;">
+            </div> 
 
           imageUrl: "picture.jpeg"
           # [Copernicus Master in Digital Earth](https://master-cde.eu/)
