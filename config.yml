@@ -63,7 +63,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Experience
+            - name: Background
               url: talks/
             - name: Projects
               url: projects/
