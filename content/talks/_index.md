@@ -24,7 +24,7 @@ For a more detailed work experience, feel free to head over to the CV section of
 **The New York Academy of Sciences** Collaborated with international students and co-developed twelve STEM projects. Notable projects include a device to non-invasively determine micronutrient levels, a smart green skyscraper, predictive data analytics for optimizing barley yield, and a novel data-driven intervention model to combat malnutrition in India. Grand winner of three international innovation challenges and a finalist in four challenges. Invited to New York City and Florida on all-expenses-paid trips two years in a row to present these projects to eminent personalities including Nobel Laureates and CEOs of Fortune 500 companies (New York, United States, 2016-2020)
 
 
-## Speaking Engagements
+## <span style="color:#2558b3;"> Speaking Engagements </span>
 - **Sustainable Energy for All:** One of the speakers on the *“Mainstreaming Gender & Youth for SDG7: Challenges and Opportunities for Young Women Entering the Workforce”* panel during the 79th United Nations General Assembly (New York City, United States, 2024) 
 - **NASA South/Southeast Asia Research Initiative Meeting:** Presented a poster on *Automated Coastline Extraction from Satellite Imagery using Machine Learning Techniques* (New Delhi, India, 2024)
 - **[Imperial College London - Grantham Institute for Climate Change and the Environment](https://www.imperial.ac.uk/grantham/education/science-and-solutions-for-a-changing-planet-dtp/external-engagement/women-in-stem-seminar-series/)** One of four youth activists and speakers on *“Women in STEM Seminar: Public Engagement with Climate Science"* (Virtual, 2021)
