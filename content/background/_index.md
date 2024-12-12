@@ -1,6 +1,6 @@
 ---
-title: "Experiences"
-description: "Talks, education, international programs"
+title: "Background"
+description: "education, international programs"
 ---
 
 For a more detailed work experience, feel free to head over to the CV section of my website 🙂 

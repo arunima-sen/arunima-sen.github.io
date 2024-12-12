@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Talks, education, international programs"
+description: "projects"
 ---
 
 ## <span style="color:#2558b3;"> Projects 👩🏻‍💻 </span>

@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-description: "Talks, education, international programs"
+title: "Recognition"
+description: "awards, speaking engagements"
 ---
 
 # <span style="color:#2558b3;"> Speaking Engagements 🎤 </span>
