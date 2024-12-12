@@ -5,9 +5,9 @@ description: "Talks, education, international programs"
 
 For a more detailed work experience, feel free to head over to the CV section of my website 🙂 
 
-## International Programs
+<span style="color:#2558b3;"> ## International Programs </span>
 **We Are Family Foundation** United Nations General Assembly (UNGA 79) Delegate (New York City, United States, 2024)
-<!-- ![UNGA 79](un1.jpeg "UNGA 79") -->
+<!-- ![UNGA 79](un1.jpeg "UNGA 79") -->   
 
 **Columbia University** *Global Collaboratory Fellowship* - partnered with Litro de Luz, a Brazilian organization that provides sustainable lighting solutions and developed a compelling pitch deck to increase funding opportunities for the organization's growth and outreach  (Virtual/New York City, United States, 2023)
 
