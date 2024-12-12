@@ -4,7 +4,7 @@ description: "Talks, education, international programs"
 ---
 
 
-## Projects
+## <span style="color:#2558b3;"> Projects 👩🏻‍💻 </span>
 **Position Estimation and Subpixel Accuracy in Tracking Particles from Images:** I investigated the phenomenon of pixel locking, an error that limits the tracking accuracy of experimental outputs to a much lower resolution than is desired. Existing algorithms to track particles infer subpixels with a systematic error known as pixel locking, a phenomenon that biases the positions of particles towards certain locations, thereby limiting the tracking accuracy of experimental outputs to a much lower resolution than is desired. The objective of the project was to train a machine learning model to track the centers of particles with better precision to reduce the pixel locking error.
 
 **All isn’t unbiased in Climate and Violence Reportage:** We studied media bias in the climate crisis. The study backs up the media-created barriers that inhibit the public from having a more comprehensive awareness and grasp of socio-political events. Our conclusion was that misinformation is one of the factors that shape the trajectory of discourse on climate change. Echo chambers—combined with confirmation bias and polarization—exacerbate the exposure to climate misinformation. The paper can be viewed [here.](https://drive.google.com/file/d/1JaUX274uTMVRdjnW7lzekYng651vmIYu/view?usp=sharing) 
@@ -24,7 +24,7 @@ description: "Talks, education, international programs"
 
 
 
-## Awards
+## <span style="color:#2558b3;"> Awards 🏅 </span>
 - **Erasmus Mundus Scholar** Recipient of the highly prestigious scholarship awarded by the European Commission (2024)
 
 - **Audi Environmental Foundation Scholar** to attend the One Young World Summit in Manchester, UK (2022)
