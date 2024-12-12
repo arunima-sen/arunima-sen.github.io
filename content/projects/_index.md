@@ -3,7 +3,6 @@ title: "Projects"
 description: "Talks, education, international programs"
 ---
 
-
 ## <span style="color:#2558b3;"> Projects 👩🏻‍💻 </span>
 **Position Estimation and Subpixel Accuracy in Tracking Particles from Images:** I investigated the phenomenon of pixel locking, an error that limits the tracking accuracy of experimental outputs to a much lower resolution than is desired. Existing algorithms to track particles infer subpixels with a systematic error known as pixel locking, a phenomenon that biases the positions of particles towards certain locations, thereby limiting the tracking accuracy of experimental outputs to a much lower resolution than is desired. The objective of the project was to train a machine learning model to track the centers of particles with better precision to reduce the pixel locking error.
 
@@ -20,28 +19,6 @@ description: "Talks, education, international programs"
 
 **Predictive Analytics for Barley Yields** We analyzed the relationship between barley yields in the United States and climate change factors using open data and data analysis techniques and devised a solution using IoT and data science to increase yield. Developed a system for farmers to use data-backed decisions to maximize yields. The solution implements IoT which uses sensors and internet connectivity to gather and analyze data. 
 (Collaborators: A. Parekh, K. McManus, J. Arevalo)
-
-
-
-
-## <span style="color:#2558b3;"> Awards 🏅 </span>
-- **Erasmus Mundus Scholar** Recipient of the highly prestigious scholarship awarded by the European Commission (2024)
-
-- **Audi Environmental Foundation Scholar** to attend the One Young World Summit in Manchester, UK (2022)
-
-- **2020 Global Teen Leader** of the We Are Family Foundation for work in sustainable urban development (2020)
-
-- **Pradhan Mantri Rashtriya Bal Puraskar (erstwhile National Child Award for Exceptional Achievement)** Received the highest civilian honor for Indian citizens under the age of 18, for exceptional achievements in the field of innovation from the President and Prime Minister of India (2019)
-
-- **College Board India Scholar** Merit-cum-needs scholarship for high-achieving students in India (2020)
-
-- **The Mars Generation 24 under 24 Leaders and Innovators in STEAM and Space** (2020)
-
-- Grand Winner of the **Infosys Science Foundation Nutrition Challenge** (2019)
-
-- Grand Winner of the **United Technologies Future of Buildings and Cities Challenge** (2018)
-
-- Grand Winner of the **Big Data Challenge** sponsored by Medidata, Regeneron, and STEM Fellowship (2018)
 
 
 
