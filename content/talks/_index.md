@@ -5,11 +5,11 @@ description: "Talks, education, international programs"
 
 For a more detailed work experience, feel free to head over to the CV section of my website 🙂 
 ## <span style="color:#2558b3;"> Education 🎓 </span>
-# Master of Science, Copernicus Master in Digital Earth (2024 - 2026)
+### Master of Science, Copernicus Master in Digital Earth (2024 - 2026)
 **Paris-Lodron University Salzburg and University of Southern Brittany** 
 Fully-funded Erasmus+ Scholar pursuing a double Master's in Earth Observation and Geoinformatics with a specialization in Geo Data Science and AI
 
-# Postgraduate Diploma in Advanced Studies and Research + Bachelor of Science (2020 - 2024)
+### Postgraduate Diploma in Advanced Studies and Research + Bachelor of Science (2020 - 2024)
 **Ashoka University** 
 Graduated *Cum Laude*. Advanced Major in Computer Science, Minor in Physics, Concentration in Environmental Studies. Fully funded College Board India Scholar
 
