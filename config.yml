@@ -10,8 +10,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Experience
-          url: talks/
+        - name: Background
+          url: background/
           weight: 1 
         - name: Recognition
           url: recognition/
@@ -67,7 +67,7 @@ params:
           imageHeight: 160
           buttons:
             - name: Background
-              url: talks/
+              url: background/
             - name: Recognition
               url: recognition/
             - name: Projects
