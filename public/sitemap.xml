@@ -105,8 +105,10 @@
   </url><url>
     <loc>http://localhost:1313/officehours/</loc>
   </url><url>
-    <loc>http://localhost:1313/talks/</loc>
+    <loc>http://localhost:1313/background/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/recognition/</loc>
   </url>
 </urlset>
