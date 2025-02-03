@@ -1,4 +1,4 @@
-<!-- ---
-title: "Data"
-description: "Datasets on various philological topics."
---- -->
+---
+title: "CDE"
+description: "Projects from various courses."
+---
