@@ -2,7 +2,7 @@
 title: "Winter Semester 1 - Paris Lodron University Salzburg" 
 date: 2024-12-31
 lastmod: 2024-07-12
-tags: ["spatial simulation"]
+# tags: ["spatial simulation"]
 author: ["Arunima Sen"]
 description: "This page details projects I worked on during Winter Semester 1 at PLUS. "
 summary: "This page details projects I worked on during Winter Semester 1 at PLUS."
