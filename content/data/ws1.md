@@ -17,7 +17,7 @@ disableAnchoredHeadings: false
 ### Temporal Analysis in Google Earth Engine 
 In this project, I visualized the devastating impact of the 2018 Camp Fire on Pulga, California. Using Sentinel-2 imagery from before and after the fire, my objective was to effectively highlight the extent of the damage, particularly the burn scars and vegetation loss. 
 
-Here's a false-color visualization of the fire, showing the damage:
+Here's a false-color visualization showing the area before and after the fire, showing the damage:
 
 <iframe src="https://ee-acs-cde.projects.earthengine.app/view/campfire2018fireviz" width="100%" height="600px" style="border: none;"></iframe>
 
