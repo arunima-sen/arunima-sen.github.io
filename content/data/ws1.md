@@ -19,6 +19,9 @@ In this project, I visualized the devastating impact of the 2018 Camp Fire on Pu
 
 Here's an RGB visualization showing the area before and after the fire:
 
+<iframe src="https://ee-acs-cde.projects.earthengine.app/view/campfire2018fireviz" width="100%" height="600px" style="border: none;"></iframe>
+
+
 <div style="display: flex; justify-content: center;">
     <video width="320" height="240" controls>
     <source src="/campfire2018_rgb.mov" type="video/mp4">
