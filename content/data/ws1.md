@@ -28,17 +28,12 @@ This study applied spatial simulation to model grazing dynamics on the Vierkaser
 A grid-based simulation in the GAMA (GIS and Agent Based Modelling) software incorporated Agent-Based Modelling for cow behaviour and Cellular Automata for grass growth. The GAMA simulation analysed the balance between grazing and regrowth, and the results identified a sustainable number of cows.  
 
 
-<!-- <video width="320" height="240" controls>
+<video width="320" height="240" controls>
   <source src="/spatial_thinking.mov" type="video/mp4">
   Your browser does not support the video tag.
-</video> -->
+</video>
 
-<div style="display: flex; justify-content: center;">
-    <video width="320" height="240" controls>
-        <source src="/spatial_thinking.mov" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+
 
 
 
