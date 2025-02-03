@@ -26,6 +26,7 @@ Here's an RGB visualization showing the area before and after the fire:
     </video>
 </div>
 
+
 And here's a false-color visualization of the fire, showing the damage:
 
 <div style="display: flex; justify-content: center;">
