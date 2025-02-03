@@ -3,7 +3,7 @@ title: "Winter Semester 1 - Paris Lodron University Salzburg"
 date: 2024-12-31
 lastmod: 2024-07-12
 tags: ["spatial simulation"]
-author: ["Arunima Sen]
+author: ["Arunima Sen"]
 description: "This page details projects I worked on during Winter Semester 1 at PLUS. "
 summary: "This page details projects I worked on during Winter Semester 1 at PLUS."
 editPost:
@@ -27,10 +27,16 @@ This study applied spatial simulation to model grazing dynamics on the Vierkaser
  
 A grid-based simulation in the GAMA (GIS and Agent Based Modelling) software incorporated Agent-Based Modelling for cow behaviour and Cellular Automata for grass growth. The GAMA simulation analysed the balance between grazing and regrowth, and the results identified a sustainable number of cows.  
 
-<video width="320" height="240" controls>
+<!-- <video width="320" height="240" controls>
   <source src="/spatial_thinking.mov" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
+<div style="display: flex; justify-content: center;">
+    <video width="320" height="240" controls>
+        <source src="/spatial_thinking.mov" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 
 
