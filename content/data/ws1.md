@@ -40,8 +40,9 @@ A grid-based simulation in the GAMA (*GIS and Agent Based Modelling*) software i
   <source src="/spatial_thinking.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
+
 <div style="display: flex; justify-content: center;">
-    <video width="320" height="240" controls>
+    <video width="100%" height="400px" controls>
         <source src="/spatial_thinking.mov" type="video/mp4">
         Your browser does not support the video tag.
     </video>
