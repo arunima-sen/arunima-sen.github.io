@@ -1,6 +1,6 @@
 ---
 title: "Summer Semester 1 - Paris Lodron University Salzburg" 
-date: 2024-12-31
+date: 2025-03-01
 lastmod: 2025-03-01
 # tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
 author: ["Arunima Sen"]
