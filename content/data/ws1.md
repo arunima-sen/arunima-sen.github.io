@@ -12,9 +12,23 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 ---
-## Digital Earth
+## Digital Earth: Big Earth Data Concepts
 
-<iframe src="https://code.earthengine.google.com/ad119951e921bd18a630f9d93e8229be?hideCode=true" width="100%" height="600px" style="border: none;"></iframe>
+### Temporal Analysis in Google Earth Engine 
+In this project, I visualized the devastating impact of the 2018 Camp Fire on Pulga, California. Using Sentinel-2 imagery from before and after the fire, my objective was to effectively highlight the extent of the damage, particularly the burn scars and vegetation loss. 
+
+Here's an RGB visualization showing the area before and after the fire:
+
+<video width="320" height="240" controls>
+  <source src="public/campfire2018_rgb.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+And here's a false-color visualization of the fire, showing the damage: 
+<video width="320" height="240" controls>
+  <source src="public/campfire2018_fireViz.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
