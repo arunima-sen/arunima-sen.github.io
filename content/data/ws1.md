@@ -19,16 +19,21 @@ In this project, I visualized the devastating impact of the 2018 Camp Fire on Pu
 
 Here's an RGB visualization showing the area before and after the fire:
 
-<video width="320" height="240" controls>
-  <source src="/campfire2018_rgb.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; justify-content: center;">
+    <video width="320" height="240" controls>
+    <source src="/campfire2018_rgb.mov" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</div>
 
-And here's a false-color visualization of the fire, showing the damage: 
-<video width="320" height="240" controls>
-  <source src="/campfire2018_fireViz.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+And here's a false-color visualization of the fire, showing the damage:
+
+<div style="display: flex; justify-content: center;">
+    <video width="320" height="240" controls>
+    <source src="/campfire2018_fireViz.mov" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</div>
 
 ---
 
