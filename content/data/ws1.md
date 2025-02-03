@@ -12,9 +12,12 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 ---
+
 ## Geo-Humanitarian Action
 
-<iframe src="https://arcg.is/14rGf93" width="100%" height="600px" style="border: none;"></iframe>
+In this course, the role of geospatial technologies in modern humanitarian action, from disaster response to conflict prevention, was examined. The topic I chose for my final presentation was *Geo Data for Disaster Preparedness* and here, you can see the ArcGIS StoryMap I used for my presentation: 
+
+<iframe src="https://arcg.is/14rGf93" width="100%" height="400px" style="border: none;"></iframe>
 
 
 ---
