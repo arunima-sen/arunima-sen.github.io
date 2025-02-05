@@ -39,7 +39,7 @@ In this course, spatial concepts, models, and GeoAI applications are explored to
 
 ### A Spatial Simulation Approach to Model Grazing Dynamics on Vierkaser Pasture, Austria
 
-<u>Co-authors</u>: Beatriz Peres, Marcelo Rigoto
+<u>Co-authors</u>: B. Peres, M. Rigoto
 
 This study applied spatial simulation to model grazing dynamics on the Vierkaser pasture, Untersberg, Austria, using geospatial data from drone imagery and manually digitized maps provided by Professor Gudrun Wallentin. The pasture was classified into distinct zones based on vegetation and soil characteristics, aiming to analyze cow movement influenced by managerial decisions and determine the maximum sustainable number of cows for ecological balance and profitability. 
 
