@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 
 <u>Co-author</u>: A. Kiefer
 
-Using Sentinel-1 data and SNAP (Sentinel Application Platform from the European Space Agency), a displacement map was created to detect post-eruption deformations on La Palma (2021), providing valuable insights for geohazard assessment and monitoring. Here is the report:  
+Using Sentinel-1 data and SNAP (*Sentinel Application Platform* from the European Space Agency), a displacement map was created to detect post-eruption deformations on La Palma (2021), providing valuable insights for geohazard assessment and monitoring. Here is the report:  
 
 <iframe src="/Sen_AdvancedRS2.pdf" width="100%" height="400px" style="border: none;"></iframe>
 
