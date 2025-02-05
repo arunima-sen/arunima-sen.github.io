@@ -3,7 +3,7 @@ title: "Recognition"
 description: "awards, speaking engagements"
 ---
 
-# <span style="color:#2558b3;"> Speaking Engagements 🎤 </span>
+# <span style="color:#2558b3;"> 🎤 Speaking Engagements </span>
 - **Sustainable Energy for All:** One of the speakers on the *“Mainstreaming Gender & Youth for SDG7: Challenges and Opportunities for Young Women Entering the Workforce”* panel during the 79th United Nations General Assembly (New York City, United States, 2024) 
 
 - **NASA South/Southeast Asia Research Initiative Meeting:** Presented a poster on *Automated Coastline Extraction from Satellite Imagery using Machine Learning Techniques* (New Delhi, India, 2024)
@@ -26,7 +26,7 @@ description: "awards, speaking engagements"
 
 
 
-# <span style="color:#2558b3;"> Awards 🏅 </span>
+# <span style="color:#2558b3;"> 🏅 Awards  </span>
 - **Erasmus Mundus Scholar** Recipient of the highly prestigious scholarship awarded by the European Commission (2024)
 
 - **Audi Environmental Foundation Scholar** to attend the One Young World Summit in Manchester, UK (2022)

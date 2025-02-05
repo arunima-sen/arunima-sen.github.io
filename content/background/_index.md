@@ -5,7 +5,7 @@ description: "education, international programs"
 
 For a more detailed work experience, feel free to head over to the CV section of my website 🙂 
 
-# <span style="color:#2558b3;"> Education 🎓 </span>
+# <span style="color:#2558b3;"> 🎓 Education  </span>
 ## Master of Science, Copernicus Master in Digital Earth (2024 - 2026)
 **Paris-Lodron University Salzburg and University of Southern Brittany** <br />
 Fully-funded Erasmus+ Scholar pursuing a double Master's in Earth Observation and Geoinformatics with a specialization in Geo Data Science and AI
@@ -15,7 +15,7 @@ Fully-funded Erasmus+ Scholar pursuing a double Master's in Earth Observation an
 Graduated *Cum Laude*. Advanced Major in Computer Science, Minor in Physics, Concentration in Environmental Studies. Fully funded College Board India Scholar
 
 
-# <span style="color:#2558b3;"> International Programs 🌎 </span>
+# <span style="color:#2558b3;"> 🌎 International Programs  </span>
 **We Are Family Foundation** United Nations General Assembly (UNGA 79) Delegate (New York City, United States, 2024)
 <!-- ![UNGA 79](un1.jpeg "UNGA 79") -->   
 
