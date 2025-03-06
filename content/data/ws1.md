@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 
 <u>Co-author</u>: A. Kiefer
 
-Using Sentinel-1 data and SNAP (*Sentinel Application Platform* from the European Space Agency), a displacement map was created to detect post-eruption deformations on La Palma (2021), providing valuable insights for geohazard assessment and monitoring. Here is the report:  
+Using Sentinel-1 data and SNAP (*Sentinel Application Platform* from the European Space Agency), we created a displacement map to detect post-eruption deformations on La Palma (2021), to provide insights for geohazard assessment and monitoring. Here is the report:  
 
 <iframe src="/Sen_AdvancedRS2.pdf" width="100%" height="400px" style="border: none;"></iframe>
 
@@ -28,7 +28,7 @@ Using Sentinel-1 data and SNAP (*Sentinel Application Platform* from the Europea
 ## Digital Earth: Big Earth Data Concepts
 
 ### Temporal Analysis in Google Earth Engine 
-In this project, I visualized the devastating impact of the 2018 Camp Fire on Pulga, California. Using Sentinel-2 imagery from before and after the fire, my objective was to effectively highlight the extent of the damage, particularly the burn scars and vegetation loss. 
+In this project, I visualized the impact of the 2018 Camp Fire on Pulga, California. Using Sentinel-2 imagery from before and after the fire, my objective was to effectively highlight the extent of the damage, particularly the burn scars and vegetation loss. 
 
 Here's a false-color visualization showing the area before and after the fire, showing the damage:
 
@@ -41,6 +41,13 @@ Here's a false-color visualization showing the area before and after the fire, s
 In this course, the role of geospatial technologies in modern humanitarian action, from disaster response to conflict prevention, was examined. The topic I chose for my final presentation was *Geo Data for Disaster Preparedness* and here, you can see the ArcGIS StoryMap I used for my presentation: 
 
 <iframe src="https://arcg.is/14rGf93" width="100%" height="400px" style="border: none;"></iframe>
+
+
+---
+## Object-Based Image Analysis
+This is my practical submission for the course:
+<iframe src="https://colab.research.google.com/drive/1yAbcFnsxlPbo9aUll6AoCiQqJU2i_lge?usp=sharing"
+        width="100%" height="600px" style="border: none;"></iframe>
 
 
 ---
