@@ -46,9 +46,7 @@ In this course, the role of geospatial technologies in modern humanitarian actio
 ---
 ## Object-Based Image Analysis
 This is my practical submission for the course:
-<iframe src="https://colab.research.google.com/drive/1yAbcFnsxlPbo9aUll6AoCiQqJU2i_lge?usp=sharing"
-        width="100%" height="600px" style="border: none;"></iframe>
-
+<iframe src="/Updated_Sen_OBIA_Practical.html" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
 
