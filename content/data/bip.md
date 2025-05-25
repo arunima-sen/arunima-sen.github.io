@@ -30,7 +30,7 @@ The program ran from March 2025 to April 2025 and included two components: a vir
 - Dynamics of fragile coupled landscapes 
 - Increasing resilience 
 
-The physical component of the program consisted of field visits across the Subcarpathians and Carpathians, where we observed various landslide types, seismic risk factors, and community vulnerabilities in context - these visits complemented the theoretical knowledge from the lectures in real-world examples 😁
+The physical component of the program consisted of field visits across the Subcarpathians and Carpathians, where we observed various landslide types, seismic risk factors, and community vulnerabilities in context - these visits complemented the theoretical knowledge from the lectures in real-world examples!
 
 ## Physical mobility in Romania
 ### Day 1 (April 7, 2025)
@@ -140,7 +140,7 @@ The physical component of the program consisted of field visits across the Subca
 
 <script>
   const images4 = [
-    "/BIP/bipDay4_1.jpg",
+    "/BIP/bipDay4_1.JPG",
     "/BIP/bipDay4_2.png",
     "/BIP/bipDay4_3.png"
   ];
@@ -161,11 +161,11 @@ During our lab sessions, we worked on developing an impact chain as a way to bet
 <!-- <img src="/BIP/impact_chain.png" alt="Impact chain style="max-width: 100%; height: auto; border-radius: 10px;"> -->
 
 
-
-
 ## Final thoughts
 This BIP made it clear that addressing vulnerability is not just a technical or scientific task, but also evidently a deeply social one. To reduce disparities in exposure and impact, it’s essential to work across silos, by that I mean to say collaboration among scientists, policymakers, and local communities is key to developing responses that are both effective and equitable. Vulnerability often amplifies even small hazards, so avoiding new risk means building smarter, planning more inclusively, and making fairness a central principle. 
 
 This program was exactly the kind of experience I had hoped for in my Master’s studies. It gave me the opportunity to connect theory with practice and to observe firsthand how the physical processes shaping the Earth interact with people and ecosystems. I hope to carry these questions forward into my PhD studies, examining the intersections of geophysical hazards, climate change, and societal dynamics in shaping both risk and resilience in different contexts. 
+
+A big thank you to the University of Bucharest for putting together such a brilliant and thoughtful field trip, and to all the professors and peers I had the chance to learn from throughout! 
 
 ![Group photo](/BIP/bip_grp.jpg)
