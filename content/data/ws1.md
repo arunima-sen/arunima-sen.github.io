@@ -1,11 +1,11 @@
 ---
-title: "Winter Semester 1 - Paris Lodron University Salzburg" 
+title: "Year 1 - Paris Lodron University Salzburg - Geoinformatics and Earth Observation" 
 date: 2024-12-31
-lastmod: 2024-07-12
+lastmod: 2025-08-31
 # tags: ["spatial simulation"]
 author: ["Arunima Sen"]
-description: "This page details projects I worked on during Winter Semester 1 at PLUS. "
-summary: "This page details projects I worked on during Winter Semester 1 at PLUS."
+description: "This page details projects I worked on during my first year at PLUS. "
+summary: "This page details projects I worked on during my first year at PLUS."
 editPost:
     URL: "https://arunima-sen.github.io/"
     Text: "GitHub repository"
@@ -22,6 +22,19 @@ Using Sentinel-1 data and SNAP (*Sentinel Application Platform* from the Europea
 
 <iframe src="/Sen_AdvancedRS2.pdf" width="100%" height="400px" style="border: none;"></iframe>
 
+
+--- 
+
+## Analysis and Modeling (Remote Sensing) 
+This seminar was structured into four phases: Image acquisition, pre-processing, analysis, and delivery, emphasizing hands-on experiments and comparative methodological studies. My project focused on Pansharpening, where I implemented and compared four classical Component Substitution methods—Brovey, PCA, IHS, and Gram-Schmidt—using urban imagery from the PAirMAx dataset put forth by Vivone et al. (2021). I conducted quantitative and visual evaluations of the methods’ ability to enhance spatial detail while preserving spectral information. All algorithms were implemented in Python within a Jupyter Notebook. My seminar paper, titled *A Comparative Analysis of Pansharpening Techniques for Very High Resolution Satellite Imagery* can be found below. 
+
+<iframe src="/Sen_AM.pdf" width="100%" height="400px" style="border: none;"></iframe>
+
+--- 
+
+## Copernicus Hubs and Institutions 
+
+<iframe src="/copernicus_report.pdf" width="100%" height="400px" style="border: none;"></iframe>
 
 --- 
 
@@ -47,6 +60,12 @@ In this course, the role of geospatial technologies in modern humanitarian actio
 ## Object-Based Image Analysis
 This is my practical submission for the course:
 <iframe src="/Updated_Sen_OBIA_Practical.html" width="100%" height="600px" style="border: none;"></iframe>
+
+---
+## Spatial Databases
+For the final project, I designed a spatial database as the backend for a WebGIS application, using the Coachella Valley Music and Arts Festival as a case study. The database had entities such as stages, food areas, facilities, vendors, emergency exits, visitors, and artist lineups, with attributes and relationships mirroring real-world interactions. I generated realistic pseudodata (including spatial allocations) and populated the database with SQL scripts. The system supports user-specific queries—for example, finding nearby facilities or listing events by location—showing how spatial databases can improve festival management and visitor experience. My report can be found below. 
+
+<iframe src="/Sen_SpatialDatabasesFinalReport.pdf" width="100%" height="400px" style="border: none;"></iframe>
 
 ---
 
