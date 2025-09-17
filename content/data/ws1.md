@@ -1,6 +1,6 @@
 ---
 title: "Year 1 - Paris Lodron University Salzburg - Geoinformatics and Earth Observation" 
-date: 2024-12-31
+date: 2025-08-31
 lastmod: 2025-08-31
 # tags: ["spatial simulation"]
 author: ["Arunima Sen"]
